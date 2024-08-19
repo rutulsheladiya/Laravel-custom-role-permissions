@@ -1,0 +1,11 @@
+.dropdown-button {
+    background-color: transparent;
+    border: none;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: #b66dff !important;
+    /* Background color for menu items on hover */
+    color: white !important;
+    /* Text color for menu items on hover */
+}
